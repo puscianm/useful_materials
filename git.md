@@ -10,6 +10,8 @@ git commit -m msg - commiting with message flag <br>
 # Branches
 git checkout [branchname | hash] - change branch
 git branch - listing all branches
+git branch branchname - create branch
+git merge branchname - merges branch into master
 
 # Github commands
 

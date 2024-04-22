@@ -8,3 +8,11 @@ mkdir -p pathtofile - creates path. -p flag specifies to create parent directori
 # Operations on files
 touch filename - create filename in current folder <br>
 rm filename - remove filename <br>
+
+# Shortcuts
+ctrl + shift + c - copy
+ctrl + shift + v - paste
+
+# Termial commands
+nano filename - edit file in nano
+clear - clears terminal
