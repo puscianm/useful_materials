@@ -1,4 +1,4 @@
-# Checking status
+# Checking status <br>
 git status - getting status (duh) <br>
 ---
 git add filename - adding filename to current commit <br>
