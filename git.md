@@ -9,5 +9,5 @@ git commit -m msg - commiting with message flag <br>
 # Github commands
 
 git push [remote repository] [flags] [local repository] - e.g.: git push origin master <br>
-**comment: ** git push without arguments assumes [remote repository] as current rep.
+**comment:** git push without arguments assumes [remote repository] as current rep.
 
