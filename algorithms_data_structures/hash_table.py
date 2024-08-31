@@ -1,4 +1,6 @@
 """
+TBD
+
 Hash table:
 
 Definition
@@ -12,6 +14,7 @@ operations
 * peek
 """
 
+import sympy
 from pprint import pprint as rprint
 
 def print_line(line_len : int):
@@ -30,4 +33,11 @@ def hash_function(key):
 
 if __name__ == "__main__":
     print_line(20)
+
+    my_string = "this is my string"
+    #for char in my_string:
+    #    print(char)
+    
+    print(sympy.nextprime(5))
     print_line(20)
+    
